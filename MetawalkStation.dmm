@@ -4263,8 +4263,8 @@
 /turf/open/floor/iron,
 /area/station/hallway/primary/port)
 "bxL" = (
-/obj/structure/lattice,
-/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
+/obj/structure/lattice/catwalk,
 /turf/open/openspace,
 /area/awaymission/secret/powered)
 "bxR" = (
@@ -9672,7 +9672,7 @@
 /turf/open/floor/iron,
 /area/station/commons/locker)
 "dtp" = (
-/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
 /turf/open/openspace,
 /area/awaymission/secret/powered)
 "dty" = (
@@ -16787,7 +16787,7 @@
 /area/station/security/execution/education)
 "fQr" = (
 /obj/machinery/light/directional/west,
-/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
 /turf/open/openspace,
 /area/awaymission/secret/powered)
 "fQv" = (
@@ -45221,7 +45221,7 @@
 /turf/open/floor/iron,
 /area/station/security/brig)
 "pVM" = (
-/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
 /obj/machinery/light/small/directional/east,
 /turf/open/openspace,
 /area/awaymission/secret/powered)
@@ -59896,7 +59896,7 @@
 /area/station/engineering/atmos)
 "vgi" = (
 /obj/machinery/light/directional/north,
-/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
 /turf/open/openspace,
 /area/awaymission/secret/powered)
 "vgo" = (
@@ -154133,7 +154133,7 @@ hir
 hir
 hir
 iBp
-dtp
+hir
 ttC
 hir
 hir
