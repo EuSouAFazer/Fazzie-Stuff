@@ -20401,7 +20401,7 @@
 /area/station/command/heads_quarters/qm)
 "hyx" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
-	dir = xxxxs
+	dir = 4
 	},
 /turf/open/floor/iron/dark/smooth_large,
 /area/station/medical/medbay/central)
@@ -47793,7 +47793,7 @@
 	},
 /obj/machinery/shower/directional/east,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
-	dir = xxxxs
+	dir = 4
 	},
 /turf/open/floor/iron/dark/smooth_large,
 /area/station/medical/pharmacy)
@@ -152500,7 +152500,7 @@ hir
 hir
 hir
 hir
-ttC
+iBp
 iBp
 iBp
 iBp
@@ -152745,8 +152745,8 @@ iLb
 hir
 hir
 bzl
-ttC
-ttC
+iBp
+iBp
 hir
 hir
 hir
@@ -152756,8 +152756,8 @@ hir
 hir
 hir
 hir
-ttC
-ttC
+iBp
+iBp
 hir
 hir
 iBp
@@ -153003,8 +153003,8 @@ dtp
 dtp
 rmF
 lbX
-ttC
-ttC
+iBp
+iBp
 hir
 hir
 qcH
@@ -153012,8 +153012,8 @@ oGL
 oGL
 oGL
 oGL
-ttC
-ttC
+iBp
+iBp
 jSA
 hir
 hir
@@ -153261,15 +153261,15 @@ hir
 rmF
 lbX
 lbX
-ttC
-ttC
-ttC
-ttC
+iBp
+iBp
+iBp
+iBp
 fQY
-ttC
-ttC
+iBp
+iBp
 fQY
-ttC
+iBp
 igY
 jSA
 hir
